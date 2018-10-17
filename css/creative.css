@@ -90,10 +90,10 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand {
-  font-weight: 700;
-  text-transform: uppercase;
-  color: #f05f40;
-  font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 20px;
 }
 
 #mainNav .navbar-brand:focus,
