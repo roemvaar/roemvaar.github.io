@@ -1,0 +1,15 @@
+Design 
+  
+  - Minimalist
+  - Sections:
+    - Bio / About me (links)
+    - Experience (filee, Deere)
+    - Education (Itson, Abo, ASU)
+    - Skills
+    - Personal projects
+    - Open Source contributions
+
+Inspiration
+  
+  - React based CV https://github.com/vaniaelizondo/CV
+  
