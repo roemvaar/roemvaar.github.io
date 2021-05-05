@@ -7,6 +7,55 @@
 <h1>BeagleV Board Bring-Up with Yocto </h1>
 
 <p>More information at https://beagleboard.org/beaglev</p>
+  
+<p>In this lab, I'll introduce Yocto and Poky and show how to use it and show how 
+  to use it to build an embedded Linux image for BeagleV - a development kit that
+  has a RISC-V SoC. </p>
+  
+
+Lab Goals:
+  
+  - Serial communication with BeagleV board
+  
+Introduction:
+  
+A Linux Based Embedded System has six main components:
+
+  1. Bootloader
+  2. Linux Kernel
+  3. Device Tree
+  4. Root Filesystem
+  5. System Programs
+  6. Application
+  
+The Yocto Project
+  
+"It's not an embedded Linux distribution, it creates a custom one for you."
+  
+Poky is a reference distribution of the Yocto Project which contain the openEmbedded 
+build system and some meta data that helps people to build their own distribution of
+Linux.
+  
+To follow this series of lab you need:
+  
+TODO - check that this material is correct for BeagleV - then update;
+  - (BeagleV)[https://beagleboard.org/beaglev]
+  - Miscro USB cable
+  - 8GB Micro SD card
+  - A Micro SD card adapter
+  - USB-to-Serial adapter
+  - A PC (preferably with a Linux distro - using Ubuntu 20.24 for this lab) with internet
+    connection and at least 50GB of free space
+ 
+  
+Sytem setup 
+  
+  https://www.yoctoproject.org/docs/1.8/yocto-project-qs/yocto-project-qs.html
+
+  - Install all the dependencies for Yocto
+  $ sudo apt-get install gawk wget git-core diffstat unzip texinfo gcc-multilib \
+     build-essential chrpath socat libsdl1.2-dev xterm
+
 
 </body>
 </html>
