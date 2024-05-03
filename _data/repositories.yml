@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - roemvaar
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - roemvaar/cs652_kernel
+  - roemvaar/fprime
+  - roemvaar/baremetal-qemu-aarch64
+  - roemvaar/PX4-Autopilot
