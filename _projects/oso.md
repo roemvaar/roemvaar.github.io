@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OSo
-description: OSo ("bear" in Spanish) is a microkernel for embedded systems
+description: OSo (\"bear\" in Spanish) is a microkernel for embedded systems
 img: assets/img/12.jpg
 importance: 1
 category: open-source
