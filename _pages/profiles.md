@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+permalink: /space/
+title: space
+description: This is my space (pun intended) to explore our universe and space tech
 nav: true
 nav_order: 7
 

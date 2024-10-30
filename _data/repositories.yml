@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - roemvaar
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - roemvaar/OSo
+  - roemvaar/linux
+  - roemvaar/baremetal-qemu-aarch64
+  - roemvaar/algae
