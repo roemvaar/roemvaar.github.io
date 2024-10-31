@@ -3,7 +3,7 @@ layout: page
 title: meta-freertos
 description: an other project with a background image and giscus comments
 img: assets/img/9.jpg
-importance: 2
+importance: 3
 category: open-source
 giscus_comments: true
 ---

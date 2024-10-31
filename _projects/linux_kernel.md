@@ -4,7 +4,7 @@ title: Linux Kernel
 description: another project with an image 🎉
 img: assets/img/tux.png
 redirect: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=valenzuelarober%40gmail.com
-importance: 1
+importance: 2
 category: open-source
 ---
 
