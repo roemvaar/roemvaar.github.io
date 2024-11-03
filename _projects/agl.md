@@ -3,7 +3,7 @@ layout: page
 title: AGL Testbench
 description: a project that redirects to another website
 img: assets/img/agl.jpg
-redirect:
+redirect: https://roemvaar.github.io/benchmark/
 importance: 1
 category: personal
 ---

@@ -3,6 +3,7 @@ layout: page
 title: Telemetry System
 description: a project with a background image and giscus comments
 img: assets/img/satellite.png
+redirect: https://github.com/roemvaar/satellite-in-a-box
 importance: 1
 category: personal
 giscus_comments: true

@@ -3,6 +3,7 @@ layout: page
 title: OSo RTOS
 description: OSo (bear in Spanish) is a microkernel for embedded systems.
 img: assets/img/oso.jpg
+redirect: https://github.com/roemvaar/oso/wiki
 importance: 1
 category: open-source
 related_publications: true

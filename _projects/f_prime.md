@@ -3,6 +3,7 @@ layout: page
 title: NASA F´ (F Prime)
 description: F´ (F Prime) is a component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications.
 img: assets/img/fprime-logo.svg
+redirect: https://fprime.jpl.nasa.gov/
 importance: 3
 category: open-source
 related_publications: true
