@@ -1,10 +1,10 @@
 ---
 layout: page
 title: meta-freertos
-description: an other project with a background image and giscus comments
+description: FreeRTOS distro layer compatible with OpenEmbedded. Here is a link to my contributions.
 img: assets/img/yocto.png
 redirect: https://github.com/roemvaar/meta-freertos
-importance: 3
+importance: 2
 category: open-source
 giscus_comments: true
 ---

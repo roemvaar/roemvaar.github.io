@@ -1,10 +1,10 @@
 ---
 layout: page
 title: AGL Testbench
-description: a project that redirects to another website
-img: assets/img/agl.jpg
+description: Automotive Grade Linux Testbench developed by the Embedded Software Group of the University of Waterloo.
+img: assets/img/agl_testbench.png
 redirect: https://roemvaar.github.io/benchmark/
-importance: 1
+importance: 2
 category: personal
 ---
 

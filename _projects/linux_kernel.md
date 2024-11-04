@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Linux Kernel
-description: The Linux kernel is a free and open source, UNIX-like kernel.
+description: The Linux kernel is a free and open source, UNIX-like kernel. Here is a link to my contributions.
 img: assets/img/tux.png
 redirect: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=valenzuelarober%40gmail.com
 importance: 2
