@@ -26,6 +26,6 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I'm an Embedded Software Engineer and a Master's Student at the University of Waterloo. On my free time, I'm an open-source contributor. My research area is broadly in embedded systems and real-time systems.
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+I love building robust, efficient software and am always exploring innovative solutions for complex technical challenges. Here, you'll find insights into my personal projects, contributions to open-source, and technical blog posts where I dive deep into topics like embedded systems, satellite tech, and more. Whether you're here as a fellow enthusiast, potential client, or recruiter, I hope my work sparks some inspiration!
 
 Outside of work I like running, snowboarding, and reading books.
