@@ -8,12 +8,12 @@ nav_order: 7
 
 profiles:
   - align: right
-    image: cool_cat.png
+    image: canadarm2.jpg
     content: _space/thoughts_space.md
     image_circular: false # crops the image to make it circular
     more_info:
   - align: left
-    image: hypnotoad.jpg
+    image: canadarm3.jpg
     content: _space/material.md
     image_circular: false
     more_info:
