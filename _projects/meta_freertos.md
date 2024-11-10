@@ -1,13 +1,15 @@
 ---
 layout: page
 title: meta-freertos
-description: FreeRTOS distro layer compatible with OpenEmbedded. Here is a link to my contributions.
+description: FreeRTOS distro layer compatible with OpenEmbedded.
 img: assets/img/yocto.png
-redirect: https://github.com/roemvaar/meta-freertos
+redirect: https://github.com/ahcbb6/meta-freertos
 importance: 2
 category: open-source
 giscus_comments: true
 ---
+
+Take a look at my [contributions](https://github.com/ahcbb6/meta-freertos/graphs/contributors).
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
