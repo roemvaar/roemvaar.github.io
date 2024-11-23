@@ -10,114 +10,32 @@ tabs: true
 
 I've watched the "*Linux in Space: Fault detection, recovery and fault-tolerant system designs*" and here are my thoughts.
 
+You can find the video and slides [here](https://osseu2024.sched.com/event/1ej1t/linux-in-space-fault-detection-recovery-and-fault-tolerant-system-designs-lenka-koskova-triskova-lukas-mazl-technical-university-of-liberec-tomas-novotny-vzlu).
 
-## First tabs
+## Fault Tolerant Design Principles
 
-To add tabs, use the following syntax:
+Design for spacecraft is a bit more complicated.
+The specific challenges presented in the environment are due
+to radiation, extreme temperatures, and no physical access.
 
-{% raw %}
+Fault tolerance is the syste's ability to overcome and handle
+failures.
 
-```liquid
-{% tabs group-name %}
+Fault Detection, Isolation, and Recovery (FDIR) is a field
+that concers with monitoring a system, identifying when a fault
+has ocurred, and pinpoiting the type of fault and its location.
 
-{% tab group-name tab-name-1 %}
+Redundancy designs are used in space technology.
 
-Content 1
+## System updates
 
-{% endtab %}
+Over the Air updates.
 
-{% tab group-name tab-name-2 %}
+## System
 
-Content 2
+Duplicate critical system images as bootloader, kernel, and
+rootfs.
 
-{% endtab %}
+They build the system using Yocto.
 
-{% endtabs %}
-```
-
-{% endraw %}
-
-With this you can generate visualizations like:
-
-{% tabs log %}
-
-{% tab log php %}
-
-```php
-var_dump('hello');
-```
-
-{% endtab %}
-
-{% tab log js %}
-
-```javascript
-console.log("hello");
-```
-
-{% endtab %}
-
-{% tab log ruby %}
-
-```javascript
-pputs 'hello'
-```
-
-{% endtab %}
-
-{% endtabs %}
-
-## Another example
-
-{% tabs data-struct %}
-
-{% tab data-struct yaml %}
-
-```yaml
-hello:
-  - "whatsup"
-  - "hi"
-```
-
-{% endtab %}
-
-{% tab data-struct json %}
-
-```json
-{
-  "hello": ["whatsup", "hi"]
-}
-```
-
-{% endtab %}
-
-{% endtabs %}
-
-## Tabs for something else
-
-{% tabs something-else %}
-
-{% tab something-else text %}
-
-Regular text
-
-{% endtab %}
-
-{% tab something-else quote %}
-
-> A quote
-
-{% endtab %}
-
-{% tab something-else list %}
-
-Hipster list
-
-- brunch
-- fixie
-- raybans
-- messenger bag
-
-{% endtab %}
-
-{% endtabs %}
+Das U-Boot as the bootloader.
