@@ -39,3 +39,16 @@ rootfs.
 They build the system using Yocto.
 
 Das U-Boot as the bootloader.
+
+## Final Thoughts
+
+It's always interesting to see where Linux is deployed. Linux is used in many space applications in education like the distribution presentation at ELC and in commercial spacecraft as the Space X's LEO constellation.
+
+In the ELC presentation the researchers don't talk about timing, it's known that certain subsystems of a spacecraft must ensure hard real-time constraints, something that the Linux kernel is incapable of ensuring, so I'm curious to learn how they handle this challenge in spacecraft design. My guess is that they use an RTOS.
+
+Deploying open-source software, as Linux 
+, on off-the-shelf hardware helps to bring design costs down by shortening the design and development time.
+
+I'm curious to keep exploring about other spacecraft that use Linux and what are their workflow. 
+
+If you are curious about the intersection of embedded software and space technology, feel free to send me a message so we can chat!
