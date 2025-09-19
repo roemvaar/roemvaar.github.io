@@ -44,16 +44,15 @@ shutdown -h now
 
 Options:
 
-* Dedicated Laptop/PC for testing is the best way to go (native compilation) [1][2]
-* VirtualBox
-* QEMU [1]
-* RaspberriPi
-* Specialiazed hardware for your specific development
-
+- Dedicated Laptop/PC for testing is the best way to go (native compilation) [1][2]
+- VirtualBox
+- QEMU [1]
+- RaspberriPi
+- Specialiazed hardware for your specific development
 
 ## Resources
 
-[1] [Setting up QEMU-KVM for kernel development]( https://www.collabora.com/news-and-blog/blog/2017/01/16/setting-up-qemu-kvm-for-kernel-development/)
+[1] [Setting up QEMU-KVM for kernel development](https://www.collabora.com/news-and-blog/blog/2017/01/16/setting-up-qemu-kvm-for-kernel-development/)
 
 [2] [For Debian-based systems - Kernel Build](https://wiki.ubuntu.com/KernelTeam/GitKernelBuild)
 

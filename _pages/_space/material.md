@@ -6,5 +6,5 @@
 
 ### Books
 
-"Onboard Computers, Onboard Software and Satellite Operations: An Introduction" by Jens 
+"Onboard Computers, Onboard Software and Satellite Operations: An Introduction" by Jens
 Eickhoff (currently reading).

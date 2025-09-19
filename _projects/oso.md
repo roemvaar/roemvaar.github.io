@@ -1,14 +1,13 @@
 ---
 layout: page
 title: OSo RTOS
-description: OSo (bear in Spanish) is a microkernel for embedded systems. OSo supports Raspberry Pi 4 Model B. 
+description: OSo (bear in Spanish) is a microkernel for embedded systems. OSo supports Raspberry Pi 4 Model B.
 img: assets/img/oso.jpg
 redirect: https://github.com/roemvaar/oso/wiki
 importance: 1
 category: personal
 related_publications: true
 ---
-
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

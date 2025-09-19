@@ -24,7 +24,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I'm an Embedded Software Engineer and a Master's Student at the University of Waterloo. On my free time, I'm an open-source contributor. My research area is broadly in embedded systems and real-time systems, with an emphasis on Real-Time Operating Systems (RTOS), embedded Linux, the Linux kernel, and safety-critical systems. 
+I'm an Embedded Software Engineer and a Master's Student at the University of Waterloo. On my free time, I'm an open-source contributor. My research area is broadly in embedded systems and real-time systems, with an emphasis on Real-Time Operating Systems (RTOS), embedded Linux, the Linux kernel, and safety-critical systems.
 
 I love building robust, efficient software and am always exploring innovative solutions for complex technical challenges. Here, you'll find insights into my personal projects, contributions to open-source, and technical blog posts where I dive deep into topics like embedded systems, satellite tech, and more. Whether you're here as a fellow enthusiast, potential client, or recruiter, I hope my work sparks some inspiration!
 

@@ -19,4 +19,4 @@ This guid assumes you have a build system configured, you can check [1] on how t
 
 1. Starting on Linux mainline, create a new branch
 
-*Last updated: November 29, 2024*
+_Last updated: November 29, 2024_

@@ -8,7 +8,7 @@ categories: OSo
 tabs: true
 ---
 
-I've watched the "*Linux in Space: Fault detection, recovery and fault-tolerant system designs*" and here are my thoughts.
+I've watched the "_Linux in Space: Fault detection, recovery and fault-tolerant system designs_" and here are my thoughts.
 
 You can find the video and slides [here](https://osseu2024.sched.com/event/1ej1t/linux-in-space-fault-detection-recovery-and-fault-tolerant-system-designs-lenka-koskova-triskova-lukas-mazl-technical-university-of-liberec-tomas-novotny-vzlu).
 
@@ -46,9 +46,9 @@ It's always interesting to see where Linux is deployed. Linux is used in many sp
 
 In the ELC presentation the researchers don't talk about timing, it's known that certain subsystems of a spacecraft must ensure hard real-time constraints, something that the Linux kernel is incapable of ensuring, so I'm curious to learn how they handle this challenge in spacecraft design. My guess is that they use an RTOS.
 
-Deploying open-source software, as Linux 
+Deploying open-source software, as Linux
 , on off-the-shelf hardware helps to bring design costs down by shortening the design and development time.
 
-I'm curious to keep exploring about other spacecraft that use Linux and what are their workflow. 
+I'm curious to keep exploring about other spacecraft that use Linux and what are their workflow.
 
 If you are curious about the intersection of embedded software and space technology, feel free to send me a message so we can chat!

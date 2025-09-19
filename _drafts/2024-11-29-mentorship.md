@@ -10,12 +10,12 @@ tabs: true
 
 # Linux Kernel Bug Fixing Fall 2022 Mentorship Program
 
-## Goals: 
+## Goals:
 
-* Master the Linux kernel development process
-* Send first patch for a bug
-* Send 10 patches (~3 patches per month)
-* Become a Linux kernel developer by getting at least one patch accepted
+- Master the Linux kernel development process
+- Send first patch for a bug
+- Send 10 patches (~3 patches per month)
+- Become a Linux kernel developer by getting at least one patch accepted
 
 ## Development Process
 
@@ -24,11 +24,10 @@ sending patches, and working on feedback from the kernel community.
 
 ## Areas to focus on
 
-* Kernel selftest framework - kselftest*
-* Kunit*
-* Documentation*
-* Perf tools*
-* low hanging fruit
+- Kernel selftest framework - kselftest\*
+- Kunit\*
+- Documentation\*
+- Perf tools\*
+- low hanging fruit
 
-
-*Last updated: November 29, 2024*
+_Last updated: November 29, 2024_
