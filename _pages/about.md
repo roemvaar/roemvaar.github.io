@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>revalenz@uwaterloo.ca</p>
     <p>University of Waterloo</p>
-    <p>Waterloo, ON</p>
+    <p>Toronto, ON</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
